@@ -1,7 +1,6 @@
 package practicework;
 
-public class myfirstprogram {
-
+public class sampleJavaAssignment {
     static int findMax(int[] numbers) {
         if (numbers == null) {
             try {
@@ -22,9 +21,9 @@ public class myfirstprogram {
     }
 
     public static void main(String[] args) {
-        int[] numbers = { 1, 3, 17, 4, 2 };
+        int[] numbers = { 1, 3, 17, 4, 22 };
         System.out.println("max = " + findMax(numbers));
-        // this finding the max number
 
     }
 }
+
