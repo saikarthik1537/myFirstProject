@@ -20,11 +20,11 @@ public class myfirstprogram {
 
         return max;
     }
-
     public static void main(String[] args) {
         int[] numbers = { 1, 3, 17, 4, 2 };
         System.out.println("max = " + findMax(numbers));
         // this finding the max number
 
     }
+    // adding git stash
 }

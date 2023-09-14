@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2245de0b-df69-4e6e-8dec-cf18822e55b5" name="Changes" comment="test1" />
+    <list default="true" id="2245de0b-df69-4e6e-8dec-cf18822e55b5" name="Changes" comment="added second program">
+      <change beforePath="$PROJECT_DIR$/src/main/java/practicework/myfirstprogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practicework/myfirstprogram.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,25 +20,30 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2VP6ENmdvLftzt1wnrwl43WxxwE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "saione",
-    "onboarding.tips.debug.path": "C:/Users/sai karthik reddy/IdeaProjects/workingkarthik/src/main/java/org/example/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;saione&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/sai karthik reddy/IdeaProjects/workingkarthik/src/main/java/org/example/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="myfirstprogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practicework.myfirstprogram" />
@@ -53,6 +60,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.myfirstprogram" />
         <item itemvalue="Application.myfirstprogram" />
       </list>
     </recent_temporary>
@@ -74,7 +82,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694725372841</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added second program">
+      <option name="closed" value="true" />
+      <created>1694730374106</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694730374106</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,7 +106,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test1" />
-    <option name="LAST_COMMIT_MESSAGE" value="test1" />
+    <MESSAGE value="added second program" />
+    <option name="LAST_COMMIT_MESSAGE" value="added second program" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
