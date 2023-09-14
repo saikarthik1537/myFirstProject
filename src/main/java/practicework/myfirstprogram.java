@@ -22,7 +22,7 @@ public class myfirstprogram {
     }
 
     public static void main(String[] args) {
-        int[] numbers = { 1, 3, 7, 4, 2 };
+        int[] numbers = { 1, 3, 17, 4, 2 };
         System.out.println("max = " + findMax(numbers));
 
     }
