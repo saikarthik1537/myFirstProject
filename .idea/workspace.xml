@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2245de0b-df69-4e6e-8dec-cf18822e55b5" name="Changes" comment="added second program">
-      <change beforePath="$PROJECT_DIR$/src/main/java/practicework/myfirstprogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practicework/myfirstprogram.java" afterDir="false" />
+    <list default="true" id="2245de0b-df69-4e6e-8dec-cf18822e55b5" name="Changes" comment="added mr">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14-09-2023_04_52_pm__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14-09-2023_04_52_pm__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,13 +17,14 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="saione" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,15 +38,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;saione&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/sai karthik reddy/IdeaProjects/workingkarthik/src/main/java/org/example/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "saione",
+    "onboarding.tips.debug.path": "C:/Users/sai karthik reddy/IdeaProjects/workingkarthik/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="practicework" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.WelcomePageApplication">
+    <configuration name="WelcomePageApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WelcomePageApplication" />
+      <module name="workingkarthik" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="myfirstprogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practicework.myfirstprogram" />
       <module name="workingkarthik" />
@@ -60,6 +75,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WelcomePageApplication" />
         <item itemvalue="Application.myfirstprogram" />
         <item itemvalue="Application.myfirstprogram" />
       </list>
@@ -90,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694730374106</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added mr">
+      <option name="closed" value="true" />
+      <created>1694732091530</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694732091530</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,7 +131,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test1" />
     <MESSAGE value="added second program" />
-    <option name="LAST_COMMIT_MESSAGE" value="added second program" />
+    <MESSAGE value="added mr" />
+    <option name="LAST_COMMIT_MESSAGE" value="added mr" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
