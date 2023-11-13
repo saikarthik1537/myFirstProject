@@ -17,6 +17,7 @@ public class Welcome_page {
 
         @GetMapping
         // hello
+        karthik
         public String welcome() {
             return "welcome";
         }
