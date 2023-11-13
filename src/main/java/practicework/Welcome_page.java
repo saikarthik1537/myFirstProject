@@ -16,6 +16,7 @@ public class Welcome_page {
     class WelcomeController {
 
         @GetMapping
+        // hello
         public String welcome() {
             return "welcome";
         }
