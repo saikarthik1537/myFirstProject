@@ -6,10 +6,29 @@ Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
 <+>UTF-8
 ===================================================================
 diff --git a/.idea/workspace.xml b/.idea/workspace.xml
---- a/.idea/workspace.xml	(revision 7129f2fb7dbce1e70816eb6708b79949c90eecd6)
-+++ b/.idea/workspace.xml	(date 1694728338777)
-@@ -20,23 +20,23 @@
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,7 +4,10 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="2245de0b-df69-4e6e-8dec-cf18822e55b5" name="Changes" comment="test1" />
++    <list default="true" id="2245de0b-df69-4e6e-8dec-cf18822e55b5" name="Changes" comment="Merge branch 'master' of https://github.com/saikarthik1537/myFirstProject into saikarthik2&#10;ILOVETEXASStarted">
++      <change afterPath="$PROJECT_DIR$/src/main/java/practicework/Demo.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -18,11 +21,16 @@
+     </option>
+   </component>
    <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="saikarthik2" />
++      </map>
++    </option>
      <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
    </component>
 -  <component name="ProjectColorInfo"><![CDATA[{
@@ -21,32 +40,30 @@ diff --git a/.idea/workspace.xml b/.idea/workspace.xml
    <component name="ProjectId" id="2VP6ENmdvLftzt1wnrwl43WxxwE" />
    <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
    <component name="ProjectViewState">
-     <option name="hideEmptyMiddlePackages" value="true" />
-     <option name="showLibraryContents" value="true" />
-   </component>
--  <component name="PropertiesComponent"><![CDATA[{
--  "keyToString": {
--    "RunOnceActivity.OpenProjectViewOnStart": "true",
--    "RunOnceActivity.ShowReadmeOnStart": "true",
+@@ -33,7 +41,7 @@
+   "keyToString": {
+     "RunOnceActivity.OpenProjectViewOnStart": "true",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
 -    "git-widget-placeholder": "saione",
--    "onboarding.tips.debug.path": "C:/Users/sai karthik reddy/IdeaProjects/workingkarthik/src/main/java/org/example/Main.java"
-+  <component name="PropertiesComponent">{
-+  &quot;keyToString&quot;: {
-+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-+    &quot;git-widget-placeholder&quot;: &quot;saione&quot;,
-+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/sai karthik reddy/IdeaProjects/workingkarthik/src/main/java/org/example/Main.java&quot;
++    "git-widget-placeholder": "master",
+     "onboarding.tips.debug.path": "C:/Users/sai karthik reddy/IdeaProjects/workingkarthik/src/main/java/org/example/Main.java"
    }
--}]]></component>
-+}</component>
-   <component name="RunManager">
-     <configuration name="myfirstprogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-       <option name="MAIN_CLASS_NAME" value="practicework.myfirstprogram" />
-@@ -53,6 +53,7 @@
-     </configuration>
+ }]]></component>
+@@ -54,6 +62,7 @@
      <recent_temporary>
        <list>
-+        <item itemvalue="Application.myfirstprogram" />
          <item itemvalue="Application.myfirstprogram" />
++        <item itemvalue="Application.myfirstprogram" />
        </list>
      </recent_temporary>
+   </component>
+@@ -90,7 +99,8 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="test1" />
+-    <option name="LAST_COMMIT_MESSAGE" value="test1" />
++    <MESSAGE value="Merge branch 'master' of https://github.com/saikarthik1537/myFirstProject into saikarthik2&#10;ILOVETEXASStarted" />
++    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/saikarthik1537/myFirstProject into saikarthik2&#10;ILOVETEXASStarted" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>

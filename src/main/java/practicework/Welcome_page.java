@@ -8,7 +8,7 @@ public class Welcome_page {
     @SpringBootApplication
 
     public static void main(String[] args) {
-            SpringApplication.run();
+        SpringApplication.run();
     }
 }
 

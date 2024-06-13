@@ -23,7 +23,7 @@ public class sampleJavaAssignment {
     public static void main(String[] args) {
         int[] numbers = { 1, 3, 17, 4, 22 };
         System.out.println("max = " + findMax(numbers));
-
+//creating mr request
     }
 }
 

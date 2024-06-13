@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2245de0b-df69-4e6e-8dec-cf18822e55b5" name="Changes" comment="added mr">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14-09-2023_04_52_pm__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14-09-2023_04_52_pm__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_13-11-2023_01_22_pm__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_13-11-2023_01_22_pm__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_6_13_2024_6_16_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_6_13_2024_6_16_PM__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_6_13_2024_6_16_PM__Changes_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_6_13_2024_6_16_PM__Changes_1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +44,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "saione",
+    "git-widget-placeholder": "saikarthik2",
     "onboarding.tips.debug.path": "C:/Users/sai karthik reddy/IdeaProjects/workingkarthik/src/main/java/org/example/Main.java",
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
@@ -52,10 +54,49 @@
       <recent name="practicework" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WelcomePageApplication">
+  <component name="RunManager" selected="Application.LoginPage">
+    <configuration name="LoginPage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practicework.LoginPage" />
+      <module name="workingkarthik" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practicework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practicework.LoginSystem" />
+      <module name="workingkarthik" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practicework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WelcomePageApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="WelcomePageApplication" />
       <module name="workingkarthik" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Welcome_page" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practicework.Welcome_page" />
+      <module name="workingkarthik" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practicework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -75,9 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LoginPage" />
         <item itemvalue="Application.WelcomePageApplication" />
+        <item itemvalue="Application.Welcome_page" />
         <item itemvalue="Application.myfirstprogram" />
-        <item itemvalue="Application.myfirstprogram" />
+        <item itemvalue="Application.LoginSystem" />
       </list>
     </recent_temporary>
   </component>
