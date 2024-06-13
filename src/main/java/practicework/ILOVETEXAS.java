@@ -11,7 +11,6 @@ public class ILOVETEXAS {
                 count++;
             }
         }
-
         System.out.println("The number of 'A' in the sentence 'I LOVE TEXAS' is: " + count);
     }
 }
